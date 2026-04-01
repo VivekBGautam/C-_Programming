@@ -50,7 +50,7 @@ g++ filename.cpp -o output
 
 ## 🤝 Contribution
 
-Contributions are welcome! You can:
+Contributions are welcome! You can: 
 
 * Add new OOP problems
 * Improve existing implementations
