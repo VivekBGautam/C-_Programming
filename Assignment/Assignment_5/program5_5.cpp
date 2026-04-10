@@ -1,4 +1,4 @@
-// Accept number form user and Check Number is even or odd
+// Accept number form user and Check Number is even or odd 
 
 ////////////////////////////////////////////////////////////////////////
 //
